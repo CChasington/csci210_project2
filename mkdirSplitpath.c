@@ -10,6 +10,8 @@ void mkdir(char pathName[]){
     //
     // YOUR CODE TO REPLACE THE PRINTF FUNCTION BELOW
 
+    printf("TEST");
+
     printf("TO BE IMPLEMENTED\n");
 
     return;
