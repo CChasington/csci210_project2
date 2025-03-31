@@ -9,9 +9,7 @@ void mkdir(char pathName[]){
     // TO BE IMPLEMENTED
     //
     // YOUR CODE TO REPLACE THE PRINTF FUNCTION BELOW
-
-    printf("TEST");
-
+    printf("HELLO WORLD");
     printf("TO BE IMPLEMENTED\n");
 
     return;
